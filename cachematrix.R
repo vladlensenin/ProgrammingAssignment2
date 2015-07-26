@@ -1,7 +1,7 @@
 ## makeCacheMatrix stores and returns a matrix and cacheSolve either calculates
 ## or returns from cache inverse of the earlier stored matrix 
 
-#stores and returns a quadratic investable matrix
+## stores and returns a quadratic investable matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         i <- NULL
